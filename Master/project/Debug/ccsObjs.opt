@@ -1,0 +1,11 @@
+"./i2cm_drv.obj"
+"./main.obj"
+"./mpu6050.obj"
+"./project.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"./uartstdio.obj"
+"./I2C/I2C.obj"
+"./TIMER/TIMER.obj"
+"../tm4c123gh6pm.cmd"
+-l"C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/ccs/Debug/driverlib.lib"
+-llibc.a
